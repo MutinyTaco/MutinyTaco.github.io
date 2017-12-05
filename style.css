@@ -1,0 +1,44 @@
+html, body {
+  margin: 3;
+  padding: 0;
+}
+
+@font-face {
+  font-family: 'Kremlin';
+  src:
+	url('./kremlin.ttf');
+}
+@font-face {
+  font-family: 'Locust';
+  src:
+	url('./CGF Locust Resistance.ttf');
+}
+@font-face {
+font-family: 'Ubuntu', sans-serif;
+src:
+url('./Ubuntu-Regular.ttf');
+}
+li {
+  font-family: 'Roboto', sans-serif;
+  color: #DCDCDC;
+}
+h1 {
+  color: #fff;
+}
+a {
+font-family: 'Roboto', sans-serif;
+color:  #FFA500;
+}
+.orange {
+    color:  #FFA500;
+}
+p {
+  font-family: 'Ubuntu', sans-serif;
+  color: #DCDCDC
+}
+.kremlin {
+  font-family: 'Kremlin';
+}
+.prometheus {
+  font-family: 'Locust';
+}
