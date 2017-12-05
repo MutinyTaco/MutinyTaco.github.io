@@ -32,6 +32,9 @@ color:  #FFA500;
 .orange {
     color:  #FFA500;
 }
+.white {
+  color: #fff
+}
 p {
   font-family: 'Ubuntu', sans-serif;
   color: #DCDCDC
@@ -41,4 +44,14 @@ p {
 }
 .prometheus {
   font-family: 'Locust';
+}
+.NavSidebar {
+  position: fixed;
+  top: 0px;
+  left: 1050px;
+  width: 205px;
+  background-color: #111;
+}
+.big {
+  font-size: large;
 }
