@@ -48,8 +48,8 @@ p {
 .NavSidebar {
   position: fixed;
   top: 0px;
-  left: 1100px;
-  width: 205px;
+  left: 5px;
+  width: 1900px;
   background-color: #111;
 }
 .big {
